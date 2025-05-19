@@ -1,4 +1,4 @@
-# Welcome, Essential AI
+# Welcome, [Essential AI](https://www.essential.ai/)
 
 **Reflection-Centric AI Research | Recursive Coherence Measurement | Symbolic Reasoning Infrastructure**
 
