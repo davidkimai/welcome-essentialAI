@@ -4,7 +4,7 @@
 
 **Reflection-Centric AI Research | Recursive Coherence Measurement | Symbolic Reasoning Infrastructure**
 
-Welcome. This interface is built in alignment with Essential AI’s core mission: to “mimic and amplify our greatest strength – the ability to solve unseen problems.” This portal serves as a frictionless access point into research, infrastructure, and symbolic interpretability work that deeply reflects and demonstrates profound alignment with your latest findings on your latest paper [**`Rethinking Reflections`**](https://arxiv.org/abs/2504.04022).
+Welcome. This interface is built in alignment with Essential AI’s core mission: to “mimic and amplify our greatest strength – the ability to solve unseen problems.” This portal serves as a frictionless access point into research, infrastructure, and symbolic interpretability work that deeply reflects and demonstrates profound alignment with your latest findings on your latest paper [**`Rethinking Reflection in Pre-Training`**](https://arxiv.org/abs/2504.04022).
 
 This repository demonstrates the work of **Recursive Labs** across two GitHub profiles—**David Kim** (model reflection + interpretability infrastructure) and **Caspian Keyes** (symbolic residue + adversarial testing)—into a unified research and deployment ecosystem. These contributions were developed independently but are now recognized as structurally aligned with Essential AI’s emerging paradigm.
 
