@@ -1,4 +1,5 @@
-# Welcome to Recursive Labs
+# [Welcome Essential AI](https://www.essential.ai/)
+# To Recursive Labs
 
 **Reflection-Centric AI Research | Recursive Coherence Measurement | Symbolic Reasoning Infrastructure**
 
